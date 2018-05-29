@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node .",
-    "stop": "node server.stop.js"
+    "start": "node ."
   },
   "author": "Stefan M",
   "license": "ISC",
