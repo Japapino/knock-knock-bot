@@ -46,3 +46,7 @@ function formatJoke(joke) {
 
         }
     });    
+
+ //Authentication
+ const token = process.env.TOKEN; 
+ client.login(token); 
